@@ -1,0 +1,19 @@
+#define     x_server      0x9BFAC7FF
+#define     x_red         0xFF7E70FF
+#define     x_white       0xFFFFFFFF
+#define     x_black       0x000000FF
+#define     x_blue        0x6ECCFFFF
+#define     x_green       0x9AFA84FF
+#define     x_orange      0xFFC39CFF
+#define     x_lblue       0x45E9FFFF
+#define     x_yellow      0xFFFA70FF
+
+#define     c_server      "{0099ff}"
+#define     c_white       "{ffffff}"
+#define     c_red         "{FF7E70}"
+#define     c_black       "{000000}"
+#define     c_blue        "{6ECCFF}"
+#define     c_green       "{9AFA84}"
+#define     c_orange      "{FFC39C}"
+#define     c_lblue       "{45E9FF}"
+#define     c_yellow      "{FFFA70}"
